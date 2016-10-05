@@ -8,6 +8,9 @@ container-fluid{
 	background-color: #b3e6ff;
 }
 
+
+}
+
 h4{
 	margin-bottom: -10px;
 
@@ -37,6 +40,4 @@ a{
 }
 .navbar-default .navbar-collapse{
 	background-color:  #cfe2e2;
-}
-
 }
